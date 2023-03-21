@@ -1,0 +1,35 @@
+input, select {
+    width: 35%;
+}
+body {
+    background-image: url('https://img.freepik.com/premium-vector/seamless-pattern-cute-animals-kids-funny-cartoon-african-fauna-characters-colorful-birds-mammals-reptiles-flowers-dots-decor-textile-wrapping-paper-wallpaper-vector-print-fabric_176411-3816.jpg?w=740');
+}
+
+#container {
+    background-color: turquoise;
+    text-align: center;
+}
+
+#navbar {
+    background-color: lightpink;
+    padding: 2px;
+}
+
+#content {
+    background-color: aquamarine;
+}
+
+#logo {
+    font-family: 'Comic Sans MS', serif;
+    font-style: italic;
+    text-align: center;
+    background-color: chartreuse;
+    margin-bottom: 0;
+}
+.btn-primary {
+    font-family: 'Comic Sans MS', serif;
+    font-size: 25px;
+}
+table {
+    background-color: aquamarine;
+}
